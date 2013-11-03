@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-Add some more item
-Test merge again
-Removing a line here
-hello world again
-=======
->>>>>>> feature-a
+Hello world222
 hello world
