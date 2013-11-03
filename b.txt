@@ -1,3 +1,4 @@
+feature b changes
 Master changes
 Hello world222
 hello world
